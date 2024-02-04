@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mbahmujono
+- 👋 Hi, I’m @mbahmujono - dr. Diaz Adi Pradana, Sp.BA - Pediatric Surgeon, AI-Full Stack (Python, JS, C++, Java, MongoDB, Langchain, TensorFlow, Pd) Programmer
 - 👀 I’m interested in AI, ML, DAO and Decentralized App development
 - 🌱 I’m currently learning Solidity, JS and web3.js
 - 💞️ I’m looking to collaborate on AI and machine learning
